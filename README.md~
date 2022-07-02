@@ -6,7 +6,7 @@ A python script to automate guessing default credentials (guest:guest) for rabbi
 
 ## URL Format in file
 * In file, urls should be in below format
-* Current URL format: https://example.com
+* URL format: https://example.com
 
 ## Installation
 ### Windows
