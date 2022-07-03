@@ -1,1 +1,6 @@
-https://amusing-seal-01.rmq.cloudamqp.com
+https://cheerful-bullfrog-02.rmq.cloudamqp.com
+https://cheerful-lobster-01.rmq.cloudamqp.com
+https://clever-squirrel-03.rmq.cloudamqp.com
+https://clever-squirrel-01.rmq.cloudamqp.com
+https://clever-meerkat-01.rmq.cloudamqp.com
+https://clever-warthog-01.rmq.cloudamqp.com
